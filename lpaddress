@@ -1,0 +1,54 @@
+>> Each ip address have four numbers like 255.255.255.255 
+
+>> Each number hava tree numbers like 192.0.1.114
+
+>> ip addrs are two types static and dynamic 
+
+>> two types of versions have ipv4 and ipv6
+
+>> ipv6 is size 128/2128
+
+example: ipv6= 001:0db8:0000:0042:0000:8a2e:0370:7334
+
+The classes of IPv4 addresses:
+
+
+The different classes of the IPv4 address are the following:
+
+1) Class A address
+
+2) Class B address
+
+3) Class C address
+
+4) Class D address
+
+5) Class E address
+
+class a:
+
+range:1-126
+ The IP range 127.x.x.x is reserved for loop back IP addresses
+ The default subnet mask for class A IP address is 255.0.0.0.
+ 
+
+classs b:
+
+range: 128.0.x.x to 191.255.x.x. 
+
+he default subnet mask for class B IP address is 255.255.0.0.
+
+class c:
+
+range:  192.0.0.x to 223.255.255.x
+
+class d:
+
+range:  224.x.x.x to 239.x.x.x 
+
+class E:
+
+range: 240.x.x.x to 255.255.255.254
+
+
+ 
